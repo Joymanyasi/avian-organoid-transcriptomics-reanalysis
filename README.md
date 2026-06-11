@@ -101,7 +101,7 @@ with the CBD Nagoya Protocol and principles of African data sovereignty.
 ## Status
 
 - Conceptual framework established
-- Public dataset — to be identified and confirmed
+- [x] Public dataset confirmed — GSE283090, Sun et al. 2025, Roslin Institute
 - Pipeline scripts — to be uploaded
 - Reanalysis results — pending
 
