@@ -10,16 +10,27 @@ Bioinformatics reanalysis of publicly available avian intestinal enteroid single
 ---
 
 ## Project Overview
-This repository presents a bioinformatics reanalysis of publicly available 
-avian intestinal enteroid single-cell transcriptomic data (GSE283090) derived 
-from broiler and layer chickens (Sun et al., 2025, Roslin Institute). The goal is to expose 
-reference-genome bias and demonstrate the functional gaps that arise when 
-commercial breed data is used as a universal proxy for all chicken breeds.
+## Project Overview
 
-This work directly motivates a proposed extension: a variant-aware 
-transcriptomic framework designed specifically for East African indigenous 
-kienyeji breeds  genetic resources shaped by centuries of adaptation to 
-thermal stress and endemic pathogens that commercial breeds cannot tolerate.
+The standard chicken reference genome (GRCg6a/GRCg7b) was derived from a 
+single White Leghorn individual , a commercial inbred breed whose constrained 
+genetic architecture does not represent the diversity of global chicken 
+populations. Every avian transcriptomic study aligned against this reference 
+inherits its bias, including the most comprehensive avian intestinal organoid 
+atlas currently available (GSE283090, Sun et al., 2025, Roslin Institute).
+
+This repository reanalyzes GSE283090 ,a single-cell RNA-seq atlas of 43,587 
+broiler and layer intestinal enteroid cells through a variant-aware pipeline 
+designed to expose what White Leghorn reference-genome bias conceals. By 
+interrogating the ANP32A host-restriction locus and interferon-stimulated gene 
+profiles, this reanalysis documents the functional gaps that arise when 
+commercial breed data is treated as a universal proxy for all chickens.
+
+This work directly motivates a proposed extension, a breed-specific 
+transcriptomic framework for East African indigenous kienyeji chickens , 
+genetic resources shaped by centuries of adaptation to thermal stress and 
+endemic pathogens that commercial breeds cannot tolerate  establishing African 
+data sovereignty as a foundational design principle.
 
 ---
 
