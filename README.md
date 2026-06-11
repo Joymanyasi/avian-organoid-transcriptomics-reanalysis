@@ -10,9 +10,9 @@ Bioinformatics reanalysis of publicly available avian intestinal enteroid single
 ---
 
 ## Project Overview
-
 This repository presents a bioinformatics reanalysis of publicly available 
-White Leghorn avian organoid transcriptomic datasets. The goal is to expose 
+avian intestinal enteroid single-cell transcriptomic data (GSE283090) derived 
+from broiler and layer chickens (Sun et al., 2025, Roslin Institute). The goal is to expose 
 reference-genome bias and demonstrate the functional gaps that arise when 
 commercial breed data is used as a universal proxy for all chicken breeds.
 
