@@ -84,7 +84,7 @@ docs/           — Abstract, notes, governance documents
 - STAR / HISAT2 — read alignment
 - DESeq2 — differential expression
 - GATK — variant-aware processing
-- R / Python — downstream analysis
+- R  — downstream analysis
 
 ---
 
@@ -102,8 +102,8 @@ with the CBD Nagoya Protocol and principles of African data sovereignty.
 
 - Conceptual framework established
 - [x] Public dataset confirmed — GSE283090, Sun et al. 2025, Roslin Institute
-- Pipeline scripts — to be uploaded
-- Reanalysis results — pending
+- [x] Pipeline scripts uploaded — 4 R scripts (QC, clustering, ANP32A, DEG)
+-  Reanalysis results — pending
 
 ---
 
