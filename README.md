@@ -1,5 +1,5 @@
 # avian-organoid-transcriptomics-reanalysis
-Bioinformatics reanalysis of existing public White Leghorn avian organoid transcriptomic datasets, with a proposed extension toward East African kienyeji breed characterization using variant-aware pipelines
+Bioinformatics reanalysis of publicly available avian intestinal enteroid single-cell transcriptomic data (GSE283090) derived from broiler and layer chickens (Sun et al., 2025, Roslin Institute)
 # Avian Organoid Transcriptomics Reanalysis
 ### Toward Breed-Relevant Models for East African Kienyeji Poultry
 
@@ -26,7 +26,7 @@ thermal stress and endemic pathogens that commercial breeds cannot tolerate.
 ## The Two-Chapter Story
 
 ### Chapter 1 — What Exists (This Repository)
-- Reanalysis of public White Leghorn organoid RNA-seq data
+- Reanalysis of public broiler and layer chicken intestinal enteroid scRNA-seq data (GSE283090)
 - Standard alignment vs variant-aware pipeline comparison
 - Interrogation of the ANP32A host-restriction locus
 - Documenting where White Leghorn data falls short
@@ -52,9 +52,9 @@ breed-specific African poultry models?
 
 | Dataset | Accession | Platform | Breed |
 |---------|-----------|----------|-------|
-| TBD | GEO/ArrayExpress | RNA-seq | White Leghorn |
+| Sun et al. 2025 - Avian Intestinal Organoid scRNA-Seq Atlas | GSE283090 | scRNA-seq 10X Genomics | Broiler (Roslin) & Layer (Hy-Line Brown) |
 
-Accession numbers will be updated as datasets are identified and confirmed.
+- [x] Public dataset confirmed — GSE283090 (GEO, public April 2025)
 
 ---
 
